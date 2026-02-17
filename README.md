@@ -55,5 +55,8 @@ You can find the game at: https://truelander12.itch.io/adventure-game
 
 ## 📸 Gameplay Preview
 
+![Gameplay Screenshot](./gameplay1.png)
+![Gameplay Screenshot](./gameplay2.png)
+
 
 
