@@ -3,6 +3,8 @@
 A browser-based 2D adventure game built using the **PhaserJS framework**.  
 This project demonstrates game architecture, scene management, asset loading, and interactive gameplay using a modern JavaScript game engine.
 
+Deployed at: https://truelander12.itch.io/adventure-game
+
 ---
 
 ## 🎮 Overview
@@ -51,12 +53,10 @@ This repository highlights:
 - Structuring code into logical components
 - Handling assets and sprites efficiently
 
-You can find the game at: https://truelander12.itch.io/adventure-game
-
 ## 📸 Gameplay Preview
 
-![Gameplay Screenshot](./gameplay1.png)
-![Gameplay Screenshot](./gameplay2.png)
+<img src="./gameplay1.png" width="600" />
+<img src="./gameplay2.png" width="600" />
 
 
 
