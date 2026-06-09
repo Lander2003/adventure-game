@@ -56,7 +56,6 @@ This repository highlights:
 ## 📸 Gameplay Preview
 
 <img src="./gameplay1.PNG" width="600" />
-<img src="./gameplay2.PNG" width="600" />
 
 
 
